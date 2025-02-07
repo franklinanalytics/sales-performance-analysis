@@ -3,6 +3,8 @@
 ## 🔍 Overview
 This project is an **Excel-based Sales Performance Analysis Dashboard** that provides insights into key business metrics such as revenue, profit, and top-performing products. It includes interactive elements like **Slicers** to dynamically filter data.
 
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## 🎯 Key Features
 - 📈 **Sales Trends:** Analyze sales performance over time.
 - 📌 **Top Products & Revenue Analysis:** Identify best-selling products and revenue distribution by region.
