@@ -3,7 +3,7 @@
 ## 🔍 Overview
 This project is an **Excel-based Sales Performance Analysis Dashboard** that provides insights into key business metrics such as revenue, profit, and top-performing products. It includes interactive elements like **Slicers** to dynamically filter data.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/franklinanalytics/sales-performance-analysis/blob/main/salesperformancedasboard.png?raw=true)
 
 ## 🎯 Key Features
 - 📈 **Sales Trends:** Analyze sales performance over time.
